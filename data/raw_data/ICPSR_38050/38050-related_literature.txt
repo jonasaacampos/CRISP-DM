@@ -1,0 +1,63 @@
+Bibliography
+Kickstarter Data, Global, 2009-2023
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 38050. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Jacobson, Susan; Marino, Jacqueline, "Crowdfunding long-form journalism:
+Characteristics of funded pitches on Kickstarter." Journal of Magazine
+Media. 2021, 21, (2), 17 - 44. DOI: 10.1353/jmm.2021.0002
+
+2. Koh, Yoon; Lee, Minwoo; Kim, Jaewook; Yang, Yun, "Successful restaurant
+crowdfunding: The role of linguistic style." International Journal of
+Contemporary Hospitality Management. 2020, 32, (10), 3051 - 3066. DOI:
+10.1108/IJCHM-02-2020-0159
+
+3. Kuppuswamy, Venkat; Bayus, Barry L., "Crowdfunding creative ideas: The
+dynamics of project backers." In The Economics of Crowdfunding. 151 - 182,
+Cham, Switzerland: Springer,2018. DOI: 10.1007/978-3-319-66119-3_8
+
+4. Meoli, Azzurra; Munari, Federico; Bort, James, "The patent paradox in
+crowdfunding: An empirical analysis of Kickstarter data." Industrial and
+Corporate Change. 2019, 28, (5), 1321 - 1341. DOI: 10.1093/icc/dtz004
+
+5. Mollick, Ethan, "The dynamics of crowdfunding: An exploratory study."
+Journal of Business Venturing. 2014, 29, (1), 1 - 16. DOI:
+10.1016/j.jbusvent.2013.06.005
+
+6. Mollick, Ethan R., "Delivery Rates on Kickstarter." SSRN, Dec 2015. DOI:
+10.2139/ssrn.2699251
+Abstract: https://ssrn.com/abstract=2699251
+Using a large survey with 47,188 backers of Kickstarter projects, I
+examined the factors that led to projects failing to deliver their promised
+rewards. Among funded projects, a failure to deliver seems relatively rare,
+accounting for around 9% of all projects, with a possible range of 5% to
+14%. There are few indicators at the time of project funding as to which
+projects might ultimately fail to deliver rewards, though small projects
+(and to a lesser extent very large projects) are more likely to fail to
+deliver rewards, as are some project categories. The demographics of
+project creators (including gender, education level, and family status) did
+not significantly affect the chance of a project succeeding.
+
+7. Yu, Sandy; Johnson, Scott; Lai, Chiayu; Cricelli, Antonio; Fleming, Lee,
+"Crowdfunding and regional entrepreneurial investment: An application of
+the CrowdBerkeley database." Research Policy. 2017, 46, (10), 1723 - 1737.
+DOI: 10.1016/j.respol.2017.07.008
+Abstract: https://ssrn.com/abstract=2699251
+Using a large survey with 47,188 backers of Kickstarter projects, I
+examined the factors that led to projects failing to deliver their promised
+rewards. Among funded projects, a failure to deliver seems relatively rare,
+accounting for around 9% of all projects, with a possible range of 5% to
+14%. There are few indicators at the time of project funding as to which
+projects might ultimately fail to deliver rewards, though small projects
+(and to a lesser extent very large projects) are more likely to fail to
+deliver rewards, as are some project categories. The demographics of
+project creators (including gender, education level, and family status) did
+not significantly affect the chance of a project succeeding.

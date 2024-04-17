@@ -1,0 +1,90 @@
+File Manifest for ICPSR 38050
+
+Leland, Jonathan. Kickstarter Data, Global, 2009-2023. ICPSR38050-v3. Ann
+Arbor, MI: Inter-university Consortium for Political and Social Research
+[distributor], 2024-04-09. http://doi.org/10.3886/ICPSR38050.v3
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38050-descriptioncitation.pdf       -       -         -       2024-04-09  -
+
+    38050-related_literature.txt        -       -         -       daily       -
+
+    38050-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Kickstarter Project Public-Use Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38050-0001-Codebook-ICPSR.pdf       -       -         -       2024-04-09  2e39e68d127fb8627d77c81f101e9669
+
+    38050-0001-Data.dta                 -       610,015   20      2024-04-09  3e9b3d64fd7295055ee215de3ccff722
+
+    38050-0001-Data.rda                 -       610,015   20      2024-04-09  48ef2dbdc077bb4c595427303484acdc
+
+    38050-0001-Data.sav                 -       610,015   20      2024-04-09  19db053795e4d3b56206376f5205dcc4
+
+    38050-0001-Data.stc                 -       610,015   20      2024-04-09  2f21ab03e726a62cbed476c572995d2f
+
+    38050-0001-Data.tsv                 -       610,015   20      2024-04-09  484ddf7323e51edfb1f4d5e71be98386
+
+    38050-0001-Data.txt                 270     610,015   20      2024-04-09  cbe0cb8de5065597f358efff27a0814c
+
+    38050-0001-Setup.dct                -       -         -       2024-04-09  5b6b6567fa5713f10124f3be6ee6eda8
+
+    38050-0001-Setup.do                 -       -         -       2024-04-09  c793dc0dd7bd7e1e1e8397c91323f84a
+
+    38050-0001-Setup.sas                -       -         -       2024-04-09  97c1c6868bb94d13c7e70fd9fcbb1c3f
+
+    38050-0001-Setup.sps                -       -         -       2024-04-09  5db22660d89a95c0e6d15ef80841d3f7
+
+
+DS0002 Kickstarter Project Restricted-Use Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38050-0002-Codebook-ICPSR.pdf       -       -         -       2024-04-09  a5ac5e51667d36a6d38c06224e70413b
+
+
+DS0003 Backer Location
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38050-0003-Codebook-ICPSR.pdf       -       -         -       2024-04-09  ffeae07a9a934f5d5137c000cfa4a986
+
+    38050-0003-Data.dta                 -       15,027,067 6       2024-04-09  f70c62000848365e7a72150119da395b
+
+    38050-0003-Data.rda                 -       15,027,067 6       2024-04-09  550b58160d71f9e0c8f2b1aef90d3043
+
+    38050-0003-Data.sav                 -       15,027,067 6       2024-04-09  d2c8728568a08469660c10fff836b182
+
+    38050-0003-Data.stc                 -       15,027,067 6       2024-04-09  1b54bb8fa4add4e55d0f05df8be1cc38
+
+    38050-0003-Data.tsv                 -       15,027,067 6       2024-04-09  b1f75db3172fe8f1501823bb15794eb9
+
+    38050-0003-Data.txt                 85      15,027,067 6       2024-04-09  7d400936d07abba4d1617aabe3aea5f9
+
+    38050-0003-Setup.dct                -       -         -       2024-04-09  4118589162b58d76c3cc771ba740b5e4
+
+    38050-0003-Setup.do                 -       -         -       2024-04-09  e6dd160740f61bb402c1ea9c295010da
+
+    38050-0003-Setup.sas                -       -         -       2024-04-09  58dd79594963767c1e2afe549b176422
+
+    38050-0003-Setup.sps                -       -         -       2024-04-09  76e1c197035cb69c171a04785bcc400e
+
+
+Version History
+
+2024-04-09 This collection has been updated to include data from 2021-2023.
+2022-09-13 This study has been updated to include DS2 Kickstarter Project
+Restricted-Use Data.
